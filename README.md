@@ -14,7 +14,7 @@ An AI-powered education assistant that can answer tech and education-related qui
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/logos/fastapi.png" alt="FastAPI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Gemini_logo_2025.png" alt="Gemini" width="40" height="40"/>
+  ![Gemini Logo](/assets/gemini-logo.png)
 </p>
 
 
