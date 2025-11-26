@@ -12,6 +12,12 @@ An AI-powered education assistant that can answer tech and education-related qui
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/logos/fastapi.png" alt="FastAPI" width="40" height="40"/>
 
+## 👨‍💻 Author
+<br>
+Shees
+<br>
+Built with ❤️ using HTML, CSS, and JavaScript
+
   
 </p>
 
