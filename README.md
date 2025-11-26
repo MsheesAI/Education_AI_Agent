@@ -16,7 +16,7 @@ An AI-powered education assistant that can answer tech and education-related qui
 <br>
 Shees
 <br>
-Built with ❤️ using HTML, CSS, JavaScript and Python,FastAPI
+Built with ❤️ using HTML, CSS, JavaScript and Python,FastAPI.
 
   
 </p>
