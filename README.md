@@ -1,4 +1,4 @@
-🎓 Education & Tech AI Agent
+🎓 Education & Tech AI Agent!
 
 An AI-powered education assistant that can answer tech and education-related quizzes,Built with HTML, CSS, JS, and Python backend, powered by the Gemini API.
 
